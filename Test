@@ -1,0 +1,34 @@
+Please write your name if you have accessed the document.
+1. Your name
+2. 
+3...
+
+Edit as you please within this area:
+
+Searching repositories
+You can search for repositories on GitHub and narrow the results using these repository search qualifiers in any combination.
+
+You can search for repositories globally across all of GitHub, or search for repositories within a particular organization. For more information, see "About searching on GitHub."
+
+To include forks in the search results, you will need to add fork:true or fork:only to your query. For more information, see "Searching in forks."
+
+Tips:
+
+For a list of search syntaxes that you can add to any search qualifier to further improve your results, see "Understanding the search syntax".
+Use quotations around multi-word search terms. For example, if you want to search for issues with the label "In progress," you'd search for label:"in progress". Search is not case sensitive.
+In this article:
+Search by repository name, description, or contents of the README file
+Search based on the contents of a repository
+Search within a user's or organization's repositories
+Search by repository size
+Search by number of forks
+Search by number of stars
+Search by when a repository was created or last updated
+Search by language
+Search by topic
+Search by number of topics
+Search by license
+Search by public or private repository
+Search based on whether a repository is a mirror
+Search based on whether a repository is archived
+Search based on number of issues with good first issue or help wanted labels
